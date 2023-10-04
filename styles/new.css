@@ -1,0 +1,146 @@
+
+.text-title{
+   padding-right: 200px;
+   padding-top: 100px;
+   text-align: end;
+   background-image: url(../images/banner/banner3.png);
+   height: 670px;
+}
+
+.text-primary{
+    font-size: 50px;
+   padding-left: 700px;
+   color: antiquewhite;
+}
+
+.text{
+    padding-left: 700px;
+    color: antiquewhite;  
+}
+.btn{
+    padding: 20px 20px;
+  border: none;
+  border-radius: 5px;
+  background: 1#ffffff;
+  font-weight: 700;
+  font-size: 20px;
+  color: #3378d1;
+}
+
+.img-title{
+   display: flex; 
+   gap: 60px;
+}
+.img-1{
+   padding-top: 100px; 
+   padding-left: 100px;
+}
+.year{
+    font-size: 50px;
+    padding-top: 300px;
+    padding-right: 200px;
+
+}
+.not{
+ padding-right: 300px;
+ color: rgb(86, 88, 90);
+}
+.popular{
+    color: rgb(86, 88, 90);
+   
+}
+.cheker{
+    color: rgb(129, 246, 19);
+}
+.plan{
+    text-align: center;
+    padding-top: 70px;
+    font-size: 30px;
+}
+.skill-container{
+    display: flex;
+    gap: 5px;
+}
+.fame{
+    color: rgb(86, 88, 90);
+    font-size: 20px;
+}
+.skill{
+/* padding-left: 100px; */
+margin-left: 150PX;
+}
+.web{
+  padding-left: 1px;  
+  font-size: 30px;
+}
+.bck-img{
+    background-image: url(../images/watch.png);
+    background-repeat: no-repeat;
+  height: 300px;
+  padding-left: 50px;
+  margin-left: 120px;
+
+}
+.call{
+    padding: 15px 40px;
+    border: none;
+    border-radius: 5px;
+    background: 1#ffffff;
+    font-weight: 700;
+    font-size: 20px;
+    color: #3378d1;
+    margin-left: 50px;
+}
+.keep{
+    margin-left: 50px;
+   padding-top: 60px;
+   color: #ffffff;
+   font-size: 40px;
+   
+}
+.last{
+    margin-top: 100px;
+    display: flex;
+    background-color: black;
+    color: #ffffff;
+
+    height: 500px;
+}
+.icon{
+    padding-left: 90px; 
+}
+.are{
+    padding-left: 100px;
+  /* padding-top: 1px; */
+   
+}
+.last-1{
+   padding-left: 150px;
+   margin-top: 150px;
+ 
+}
+ 
+.last-2{
+   padding-left: 250px;
+   margin-top: 150px;
+ 
+}
+.email{
+    border: 1px solid wheat;
+    border-radius: 5px;
+    background-color: black;
+    padding: 20px 30px;
+}
+.end{
+    margin-right: 20px;
+    margin-top: 10px;
+    padding: 10px 20px;
+    border: none;
+    background-color: #3378d1;
+    border-radius: 5px;
+    /* font-weight: 700; */
+    font-size: 20px;
+    color: #ffffff;
+    
+}
+ 
